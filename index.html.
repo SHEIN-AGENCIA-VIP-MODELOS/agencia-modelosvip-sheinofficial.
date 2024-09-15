@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AGENCIA DE MODELAJE VIP DE SHEIN</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+        a {
+            color: white;
+            text-decoration: none;
+            background-color: gray;
+            padding: 10px 20px;
+            border-radius: 5px;
+            margin-top: 20px;
+            display: inline-block;
+        }
+        a:hover {
+            background-color: #555;
+        }
+    </style>
+</head>
+<body>
+    <h1>AGENCIA DE MODELAJE VIP DE SHEIN</h1>
+    <p>AGENCIA OFFICIAL PARA NUESTRAS MODELOS, ESTÁS LISTA PARA EMPEZAR CON EL INICIO DE TUS SUEÑOS.</p>
+    <a href="#">Ver nuevas modelos prospectos VIP</a>
+    <br><br>
+    <p>MANDA TU PORTAFOLIO DE IMÁGENES: <a href="mailto:norma.rivera70@outlook.com">norma.rivera70@outlook.com</a></p>
+    <br>
+    <p>SHEIN MODELOS ESTÁ AL ALCANCE DE TUS SUEÑOS, POR ESO SIEMPRE TE GUSTAMOS CUANDO NOS VES.</p>
+    <br>
+    <a href="https://www.shein.com.mx">PÁGINA OFICIAL SHEIN | SHEIN Tienda de Ropa Online</a>
+</body>
+</html>
